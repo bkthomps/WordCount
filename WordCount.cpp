@@ -1,13 +1,12 @@
 /**
  * Bailey Thompson
- * Word Count (1.0.2)
- * 22 November 2016
+ * Word Count (1.0.3)
+ * 6 February 2017
  * Info: Create a .txt file and insert some text. The program will then count the amount of words and write it to a .anl
  * Info: file. Insert words as command-line arguments to get the occurences of those words in the .anl file also.
  */
 #include <iostream>
 #include <fstream>
-#include <stdlib.h>
 #include <math.h>
 
 int main(int argc, char* argv[]) {
